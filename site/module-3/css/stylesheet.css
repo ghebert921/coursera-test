@@ -1,0 +1,46 @@
+.container-fluid{
+	padding-left: 1px;
+	margin: 15px 1px 5px 5px;
+}
+
+#header-nav{
+	background-color: #1F8A9D;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1{
+	color:#AA3763;
+	font-size:1.9em;
+
+	font-weight:bold;
+	text-shadow: 1px 1px 1px #555;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a{
+  text-decoration: none;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+.col-xs-12{
+	background-color:#AAAAAA;
+	padding: 10px;
+	margin: 0;
+
+	font-size: 1.8em;
+
+}
+h1{
+	font-size: 4em;
+	margin: 15px
+}
+
+h2{
+	margin-top: 15px;
+	font-size: 1.5em;
+}
